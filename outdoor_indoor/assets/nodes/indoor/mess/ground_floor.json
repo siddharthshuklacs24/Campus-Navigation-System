@@ -1,0 +1,62 @@
+[
+  {
+    "id": "FG_ENTRANCE",
+    "x": 1044,
+    "y": 1050,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_CORRIDOR_1",
+    "x": 1044,
+    "y": 803,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_SHOP",
+    "x": 1044,
+    "y": 511,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_MESS_HALL",
+    "x": 1148,
+    "y": 557,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_STORAGE",
+    "x": 1148,
+    "y": 891,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_STAIRS",
+    "x": 1495,
+    "y": 868,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_GUEST_DINING_HALL",
+    "x": 1615,
+    "y": 926,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_MPH",
+    "x": 836,
+    "y": 434,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_CORRIDOR_2",
+    "x": 483,
+    "y": 434,
+    "floor": "FG"
+  },
+  {
+    "id": "FG_WASHROOM",
+    "x": 223,
+    "y": 434,
+    "floor": "FG"
+  }
+]
